@@ -1,0 +1,2 @@
+# new-repository
+Hi there!
